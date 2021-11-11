@@ -6,9 +6,9 @@ sections:
     type: section_hero
     title: 'Hi, I''m Adrian Avila Molina and this is my Portfolio.'
     content: >
-      ###### Blessed to be born in a beautiful town in southern Bolivia and to
-      be able to study at La docta (National University of Cordoba) now I focus
-      on giving everything I can to the world and I do it through my art and my
+      Blessed to be born in a beautiful town in southern Bolivia and to be able
+      to study at La docta (National University of Cordoba) now I focus on
+      giving everything I can to the world and I do it through my art and my
       knowledge.
     actions:
       - label: Let's talk
